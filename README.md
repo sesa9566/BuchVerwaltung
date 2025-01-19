@@ -1,6 +1,6 @@
 BuchVerwaltung
 
-Projektbeschreibung
+Projektbeschreibung:
 Das Buchverwaltungsprogramm ermöglicht es Benutzern, ihre Bücher zu verwalten. Nutzer können neue Bücher mit Titel, Autor, Jahr und Genre hinzufügen, Bücher aus der Liste löschen und die Buchliste nach Genre filtern. Die Anwendung bietet eine benutzerfreundliche Oberfläche mit einfachen Schaltflächen zur Interaktion.
 
 
@@ -12,7 +12,7 @@ Hauptfunktionen:
 - Buch löschen: Nutzer können durch Anklicken auf der Buchliste Bücher löschen.
 
 
-Projektstruktur
+Projektstruktur:
 - src/: Enthält den Quellcode des Programms.
 - Buch.java: Enthält die Buchklasse, die die Eigenschaften eines Buches (Titel, Autor, Jahr, Genre) definiert, 
   sowie Getter- und Setter-Methoden.
