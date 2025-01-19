@@ -1,6 +1,7 @@
 BuchVerwaltung
 
 Projektbeschreibung:
+
 Das Buchverwaltungsprogramm ermöglicht es Benutzern, ihre Bücher zu verwalten. Nutzer können neue Bücher mit Titel, Autor, Jahr und Genre hinzufügen, Bücher aus der Liste löschen und die Buchliste nach Genre filtern. Die Anwendung bietet eine benutzerfreundliche Oberfläche mit einfachen Schaltflächen zur Interaktion.
 
 
